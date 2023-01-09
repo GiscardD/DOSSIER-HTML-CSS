@@ -1,0 +1,57 @@
+header{
+    background-color: rgba(161, 160, 160, 0.278);
+    height: 80px;
+    width: auto;
+    color: white;
+  }
+
+  .copyright_footer{
+position: fixed;
+color: white;
+bottom: 0;
+width: 100%;
+background-color:  rgba(161, 160, 160, 0.432);
+line-height: 3;
+text-align: center;
+left: 0;
+}
+
+.action-button{
+padding: 5px 30px;
+float: left;
+transform: translate(30%, 70%);
+border-radius: 10px;
+font-family: 'Pacifico', cursive;
+font-size: 25px;
+color: #ffffff;
+text-decoration: none;
+background-color: rgba(161, 160, 160, 0.432);
+border-bottom: 5px solid  rgba(161, 160, 160, 0.432);
+text-shadow: 0px -2px  rgba(161, 160, 160, 0.432);
+transition: all 0.1s;
+-webkit-transition: all 0.1s;
+}
+
+
+.action-button2{
+padding: 5px 30px;
+float: left;
+transform: translate(100%, 700%);
+border-radius: 10px;
+font-family: 'Pacifico', cursive;
+font-size: 25px;
+color: #ffffff;
+text-decoration: none;
+background-color:  rgba(161, 160, 160, 0.432);
+border-bottom: 5px solid  rgba(161, 160, 160, 0.432);
+text-shadow: 0px -2px  rgba(161, 160, 160, 0.432);
+transition: all 0.1s;
+-webkit-transition: all 0.1s;
+}
+body{
+    background-image: url(vo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    }
